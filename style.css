@@ -1,0 +1,58 @@
+body{
+    background-color: tomato;
+    width: 80%;
+    justify-content: center;
+}
+
+#datosCliente{
+    background-color: aqua;
+    width: auto;
+    justify-content:space-around;    
+    display: flex;
+    margin: 5px;
+    padding: 4px;
+}
+
+#momentoDia{
+    background-color: darkred;
+    width: 80%;
+    
+    margin: 5px;
+    padding: 8px;
+    justify-content: space-around;
+}
+
+#formulario{
+    background-color: aqua;
+}
+
+#msjRevisar{
+    background-color: aquamarine;
+    margin: 15px;
+    padding: 8px;
+}
+
+#msjGenerado{
+    width: 95%;
+    height: 150px;
+}
+
+#linkEnvio{
+    display: inline-block;
+    margin: 1px;
+    justify-content: center;
+
+}
+
+
+#divMotivo{
+    display: flex;
+    margin: 5px;
+    padding: 3px;
+    justify-content: center;
+}
+
+#divMotivo p{
+    padding: 5px;
+    align-content: center;
+}
